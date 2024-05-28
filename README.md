@@ -26,14 +26,3 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Mix__XD/)
 
 </div>
-
-
-<h2 align="center"> Current Stats 💡</h2>
-
-<div align="center">
-
-<a href="http://www.github.com/Mix100298"><img src="https://github-readme-stats.vercel.app/api?username=Mix100298&show_icons=true&hide=&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Mix100298's GitHub stats" /></a>
-
-<a href="https://github.com/Mix100298"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mix100298&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-</div>
