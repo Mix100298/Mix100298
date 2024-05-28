@@ -26,3 +26,11 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Mix__XD/)
 
 </div>
+
+<h2 align="center"> Current Stats 💡</h2>
+
+<div align="center">
+
+<a href="http://www.github.com/Mix100298"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mix100298&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+</div>
