@@ -30,4 +30,8 @@
 
 <h2 align="center"> Current Stats 💡</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<div align="center">
+
+<a href="http://www.github.com/Mix100298"><img src="https://github-readme-stats.vercel.app/api?username=Mix100298&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Mix100298's GitHub stats" /></a>
+
+</div>
